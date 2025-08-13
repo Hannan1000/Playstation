@@ -4,16 +4,6 @@ A responsive and visually rich PlayStation-themed landing page built using **HTM
 
 ---
 
-## 📸 Preview
-
-![Preview Screenshot](preview.png) <!-- Replace with actual screenshot filename if available -->
-
----
-
-## 🌐 Live Demo
-
-[🔗 View Demo (optional)](https://your-live-demo-link.com)  
-> _(You can deploy this with GitHub Pages, Netlify, or Vercel)_
 
 ---
 
